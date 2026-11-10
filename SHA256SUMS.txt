@@ -1,0 +1,3 @@
+﻿9d74ef566fb01ea9cb150a6ef8c06f67bb2c8887f6d3e4cfb70491c762fe1a13  yuelongzhang.cortex-debug-mcp-1.4.0-patched.vsix
+0aa0be9720a7556ddcd10f01d15891361e9a8c1440c4a543e9bac2dd25360c49  extension/dist/extension.js
+
